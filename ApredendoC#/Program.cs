@@ -1,5 +1,4 @@
-﻿
-namespace ApredendoClasses;
+﻿namespace ApredendoClasses;
 internal class Program
 {
     public static void Main()
